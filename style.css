@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
+:root{
+  /* Green */
+  --green-400: #3cb4ac;
+  --green-700: hsl(176, 72%, 28%);
+
+  /* Neutral */
+  --black: hsl(0, 0%, 0%);
+  --gray-500: hsl(0, 0%, 48%);
+}
